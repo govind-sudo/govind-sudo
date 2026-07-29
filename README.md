@@ -14,20 +14,6 @@
 
 ---
 
-### 🎮 Play Tic-Tac-Toe with Me!
-
-Click on any available square below to start or continue a game against the bot!
-
-<!-- tic-tac-toe-start -->
-|   |   |   |
-| :-: | :-: | :-: |
-| [❌](https://github.com/govind-sudo/govind-sudo/issues/new?title=ttt%7C1&body=Click+Submit+New+Issue+to+make+your+move.) | [⭕](https://github.com/govind-sudo/govind-sudo/issues/new?title=ttt%7C2&body=Click+Submit+New+Issue+to+make+your+move.) | [❌](https://github.com/govind-sudo/govind-sudo/issues/new?title=ttt%7C3&body=Click+Submit+New+Issue+to+make+your+move.) |
-| [⭕](https://github.com/govind-sudo/govind-sudo/issues/new?title=ttt%7C4&body=Click+Submit+New+Issue+to+make+your+move.) | [❌](https://github.com/govind-sudo/govind-sudo/issues/new?title=ttt%7C5&body=Click+Submit+New+Issue+to+make+your+move.) | [⭕](https://github.com/govind-sudo/govind-sudo/issues/new?title=ttt%7C6&body=Click+Submit+New+Issue+to+make+your+move.) |
-| [❌](https://github.com/govind-sudo/govind-sudo/issues/new?title=ttt%7C7&body=Click+Submit+New+Issue+to+make+your+move.) | [⭕](https://github.com/govind-sudo/govind-sudo/issues/new?title=ttt%7C8&body=Click+Submit+New+Issue+to+make+your+move.) | [❓](https://github.com/govind-sudo/govind-sudo/issues/new?title=ttt%7C9&body=Click+Submit+New+Issue+to+make+your+move.) |
-<!-- tic-tac-toe-end -->
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="left">
