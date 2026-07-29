@@ -8,16 +8,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-* 🎓 Computer Science Engineering undergraduate at **Parul University**
-* 💡 Passsionate **Full Stack Web Developer** building scalable web apps with Node.js, MongoDB & React
-* 🧩 Solved **650+ problems** on LeetCode (Rating 1700+) & active on Codeforces (Rating 1200)
-* 🚀 Built projects like **Glow & Scent** (E-commerce Platform) and a **Naukri.com Clone**
-* 💬 Ask me about **Data Structures, Algorithms, JavaScript & Web Architecture**
-
----
-
 ### 🐍 Contribution Snake
 
 ![Snake Animation](https://raw.githubusercontent.com/govind-sudo/govind-sudo/output/github-snake-dark.svg)
