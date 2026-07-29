@@ -47,13 +47,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-now.vercel.app/api?username=govind-sudo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=govind-sudo&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=govind-sudo&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=govind-sudo&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=govind-sudo&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=govind-sudo&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
